@@ -1,2 +1,1 @@
-%MAYUMS!!!!
 %Hello guys!
